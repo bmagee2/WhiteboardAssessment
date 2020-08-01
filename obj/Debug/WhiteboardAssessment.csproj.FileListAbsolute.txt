@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\bin\Debug\WhiteboardAssessment.exe.config
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\bin\Debug\WhiteboardAssessment.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\bin\Debug\WhiteboardAssessment.pdb
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\obj\Debug\WhiteboardAssessment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\obj\Debug\WhiteboardAssessment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\obj\Debug\WhiteboardAssessment.exe
+\\Mac\Home\Desktop\elevenfiftyprojects\dotnetprojects\Assignments\Assignments\WhiteboardAssessment\obj\Debug\WhiteboardAssessment.pdb
